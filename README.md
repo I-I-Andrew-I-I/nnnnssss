@@ -21,8 +21,7 @@ You can always find the latest releases and updates on my official Modrinth page
 * **Dependencies:** `[Sophisticated Backpacks]`
 
 ## 🐛 Bug Reports & Suggestions
-If you encounter any bugs, crashes, or have a feature request, please let me know! 
-You can report issues on the **[Issues Tracker](https://github.com/I-I-Andrew-I-I/Sophisticated-GUI/issues)**.
+If you encounter any bugs, crashes, or have feature requests, please use the **[issues tracker](https://github.com/I-I-Andrew-I-I/Sophisticated-GUI/issues)**.
 
 When reporting a bug, please make sure to include:
 1. Your Minecraft version
