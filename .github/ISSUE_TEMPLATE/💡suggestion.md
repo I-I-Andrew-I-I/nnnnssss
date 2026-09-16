@@ -1,7 +1,7 @@
 ---
 name: "\U0001F4A1Suggestion"
-about: If you have any suggestion for the mod, let me know!
-title: "[SUGGESTION]"
+about: If you have any suggestion for the mod (e.g., a feature), let me know!
+title: "[💡SUGGESTION]"
 labels: ''
 assignees: ''
 
