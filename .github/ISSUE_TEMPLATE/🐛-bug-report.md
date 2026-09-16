@@ -17,4 +17,4 @@ assignees: ''
 - Mod version: [e.g., 2026.5]
 
 **Crash Log / Log File:**
-[WARNING: Do not paste huge blocks of text here! Upload your log to sites like mclo.gs and paste the link here.]'
+[WARNING: Do not paste huge blocks of text here! Upload your log to sites like https://mclo.gs and paste the link here.]'
